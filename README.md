@@ -1,6 +1,8 @@
 # Prompt Fix AGI
 
-![cuddlebot](./cuddlebot.webp)
+<p align="center">
+  <img width="200" height="200" alt="cuddlebot" src="./cuddlebot.webp">
+</p>
 
 Prompt Fix AGI is an automatic prompt optimization tool designed to refine user prompts, enabling Large Language Models (LLMs) to provide more accurate and detailed responses. It takes user prompts and the expected LLM responses as inputs, and automatically adjusts the user prompts based on this information. Through this process, the tool clarifies and elaborates the prompts, ensuring that the LLM can respond in a manner that closely matches the expected answer.
 
@@ -48,7 +50,7 @@ docker-compose up
 
 ## Examples
 
-<details open>
+<details>
   <summary>Pizza Example</summary>
 In the following example, ideal_answer is a list of pizza ingredients. Since the question prompt is "what is pizza.", the LLM will not give an answer like ideal_answer. So, the prompt is automatically modified to get an answer similar to ideal_answer.
 
