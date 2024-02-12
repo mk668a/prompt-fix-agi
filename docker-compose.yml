@@ -1,0 +1,14 @@
+version: "3.9"
+
+services:
+  prompt-fix-agi:
+    build: ./
+    container_name: prompt-fix-agi
+    ports:
+      - 127.0.0.1:8080:8080
+    volumes:
+      - "./:/app"
+    stdin_open: true
+    tty: true
+    ulimits:
+      memlock: -1

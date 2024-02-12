@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="434px" preserveAspectRatio="none" style="width:1068px;height:434px;background:#FFFFFF;" version="1.1" viewBox="0 0 1068 434" width="1068px" zoomAndPan="magnify"><defs/><g><rect fill="#FFFFFF" height="92.3979" style="stroke:#000000;stroke-width:1.0;" width="511" x="15" y="288.6099"/><rect fill="#FFFFFF" height="44.7993" style="stroke:none;stroke-width:1.0;" width="511" x="15" y="336.2085"/><line style="stroke:#000000;stroke-width:1.0;stroke-dasharray:5.0,5.0;" x1="57" x2="57" y1="37.0146" y2="398.0078"/><line style="stroke:#000000;stroke-width:1.0;stroke-dasharray:5.0,5.0;" x1="437" x2="437" y1="37.0146" y2="398.0078"/><line style="stroke:#000000;stroke-width:1.0;stroke-dasharray:5.0,5.0;" x1="661" x2="661" y1="37.0146" y2="398.0078"/><line style="stroke:#000000;stroke-width:1.0;stroke-dasharray:5.0,5.0;" x1="879" x2="879" y1="37.0146" y2="398.0078"/><rect fill="#FFFFFF" height="31.0146" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="45" x="35" y="5"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="31" x="42" y="26.0752">User</text><rect fill="#FFFFFF" height="31.0146" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="45" x="35" y="397.0078"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="31" x="42" y="418.083">User</text><rect fill="#FFFFFF" height="31.0146" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="137" x="369" y="5"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="123" x="376" y="26.0752">Prompt Fix Agent</text><rect fill="#FFFFFF" height="31.0146" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="137" x="369" y="397.0078"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="123" x="376" y="418.083">Prompt Fix Agent</text><rect fill="#FFFFFF" height="31.0146" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="217" x="553" y="5"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="203" x="560" y="26.0752">Large Language Model (LLM)</text><rect fill="#FFFFFF" height="31.0146" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="217" x="553" y="397.0078"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="203" x="560" y="418.083">Large Language Model (LLM)</text><rect fill="#FFFFFF" height="31.0146" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="159" x="800" y="5"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="145" x="807" y="26.0752">Answer Check Agent</text><rect fill="#FFFFFF" height="31.0146" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="159" x="800" y="397.0078"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="145" x="807" y="418.083">Answer Check Agent</text><polygon fill="#000000" points="425.5,64.814,435.5,68.814,425.5,72.814,429.5,68.814" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.0;" x1="57.5" x2="431.5" y1="68.814" y2="68.814"/><text fill="#000000" font-family="Verdana" font-size="13" lengthAdjust="spacing" textLength="293" x="64.5" y="64.0845">sends (User Prompt, Expected LLM Answer)</text><line style="stroke:#000000;stroke-width:1.0;" x1="437.5" x2="479.5" y1="98.6133" y2="98.6133"/><line style="stroke:#000000;stroke-width:1.0;" x1="479.5" x2="479.5" y1="98.6133" y2="111.6133"/><line style="stroke:#000000;stroke-width:1.0;" x1="438.5" x2="479.5" y1="111.6133" y2="111.6133"/><polygon fill="#000000" points="448.5,107.6133,438.5,111.6133,448.5,115.6133,444.5,111.6133" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="13" lengthAdjust="spacing" textLength="210" x="444.5" y="93.8838">processes and modifies prompt</text><polygon fill="#000000" points="649.5,137.4126,659.5,141.4126,649.5,145.4126,653.5,141.4126" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.0;" x1="437.5" x2="655.5" y1="141.4126" y2="141.4126"/><text fill="#000000" font-family="Verdana" font-size="13" lengthAdjust="spacing" textLength="164" x="444.5" y="136.6831">sends (Modified Prompt)</text><polygon fill="#000000" points="448.5,167.2119,438.5,171.2119,448.5,175.2119,444.5,171.2119" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.0;" x1="442.5" x2="660.5" y1="171.2119" y2="171.2119"/><text fill="#000000" font-family="Verdana" font-size="13" lengthAdjust="spacing" textLength="190" x="454.5" y="166.4824">returns (Actual LLM Answer)</text><polygon fill="#000000" points="867.5,197.0112,877.5,201.0112,867.5,205.0112,871.5,201.0112" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.0;" x1="437.5" x2="873.5" y1="201.0112" y2="201.0112"/><text fill="#000000" font-family="Verdana" font-size="13" lengthAdjust="spacing" textLength="334" x="444.5" y="196.2817">sends (Actual LLM Answer, Expected LLM Answer)</text><line style="stroke:#000000;stroke-width:1.0;" x1="879.5" x2="921.5" y1="230.8105" y2="230.8105"/><line style="stroke:#000000;stroke-width:1.0;" x1="921.5" x2="921.5" y1="230.8105" y2="243.8105"/><line style="stroke:#000000;stroke-width:1.0;" x1="880.5" x2="921.5" y1="243.8105" y2="243.8105"/><polygon fill="#000000" points="890.5,239.8105,880.5,243.8105,890.5,247.8105,886.5,243.8105" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="13" lengthAdjust="spacing" textLength="175" x="886.5" y="226.0811">calculates similarity score</text><polygon fill="#000000" points="68.5,269.6099,58.5,273.6099,68.5,277.6099,64.5,273.6099" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.0;" x1="62.5" x2="878.5" y1="273.6099" y2="273.6099"/><text fill="#000000" font-family="Verdana" font-size="13" lengthAdjust="spacing" textLength="103" x="74.5" y="268.8804">returns (Score)</text><path d="M15,288.6099 L79,288.6099 L79,296.4092 L69,306.4092 L15,306.4092 L15,288.6099 " fill="#FFFFFF" style="stroke:#000000;stroke-width:1.0;"/><rect fill="none" height="92.3979" style="stroke:#000000;stroke-width:1.0;" width="511" x="15" y="288.6099"/><text fill="#000000" font-family="Verdana" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="19" x="30" y="302.6797">alt</text><text fill="#000000" font-family="Verdana" font-size="11" font-weight="bold" lengthAdjust="spacing" textLength="136" x="94" y="301.6689">[if score &lt; threshold]</text><polygon fill="#000000" points="425.5,324.2085,435.5,328.2085,425.5,332.2085,429.5,328.2085" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.0;" x1="57.5" x2="431.5" y1="328.2085" y2="328.2085"/><text fill="#000000" font-family="Verdana" font-size="13" lengthAdjust="spacing" textLength="356" x="64.5" y="323.479">repeat with (Modified Prompt, Expected LLM Answer)</text><line style="stroke:#000000;stroke-width:1.0;stroke-dasharray:2.0,2.0;" x1="15" x2="526" y1="337.2085" y2="337.2085"/><line style="stroke:#000000;stroke-width:1.0;" x1="57.5" x2="99.5" y1="360.0078" y2="360.0078"/><line style="stroke:#000000;stroke-width:1.0;" x1="99.5" x2="99.5" y1="360.0078" y2="373.0078"/><line style="stroke:#000000;stroke-width:1.0;" x1="58.5" x2="99.5" y1="373.0078" y2="373.0078"/><polygon fill="#000000" points="68.5,369.0078,58.5,373.0078,68.5,377.0078,64.5,373.0078" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="13" lengthAdjust="spacing" textLength="87" x="64.5" y="355.2783">process ends</text><!--MD5=[4001fde9220282361f7aa4924a7889dc]
+@startuml
+!theme plain
+
+participant "User" as User
+participant "Prompt Fix Agent" as PFA
+participant "Large Language Model (LLM)" as LLM
+participant "Answer Check Agent" as ACA
+
+User -> PFA : sends (User Prompt, Expected LLM Answer)
+PFA -> PFA : processes and modifies prompt
+PFA -> LLM : sends (Modified Prompt)
+LLM -> PFA : returns (Actual LLM Answer)
+PFA -> ACA : sends (Actual LLM Answer, Expected LLM Answer)
+ACA -> ACA : calculates similarity score
+ACA -> User : returns (Score)
+
+alt if score < threshold
+  User -> PFA : repeat with (Modified Prompt, Expected LLM Answer)
+else
+  User -> User : process ends
+end
+
+@enduml
+
+@startuml
+
+
+
+
+
+
+
+<style>
+  root {
+    BackgroundColor white
+    FontColor black
+    FontName Verdana
+    HyperLinkColor blue
+    LineColor black
+    LineThickness 1
+    Margin 5
+  }
+  caption {
+    LineThickness 0
+  }
+  footer {
+    LineThickness 0
+  }
+  header {
+    LineThickness 0
+  }
+  node {
+    MaximumWidth 300
+  }
+  title {
+    FontSize 22
+    LineThickness 0
+  }
+</style>
+
+skinparam ArrowLollipopColor black
+skinparam BackgroundColor white
+skinparam DefaultFontName Verdana
+skinparam DefaultMonospacedFontName Courier
+skinparam LifelineStrategy nosolid
+skinparam ParticipantPadding 10
+skinparam SequenceLifeLineBorderColor black
+skinparam Shadowing false
+skinparam UseBetaStyle true
+
+skinparam Activity {
+  BackgroundColor white
+  BarColor black
+  BorderColor black
+  FontColor black
+  FontName Verdana
+}
+skinparam Boundary {
+  FontColor black
+}
+skinparam Box {
+  Padding 5
+}
+skinparam CircledCharacter {
+  FontColor black
+  FontName Courier
+  Radius 9
+}
+skinparam Class {
+  BackgroundColor white
+  BorderColor black
+  FontColor black
+  FontName Verdana
+}
+skinparam ClassAttribute {
+  FontColor black
+  FontName Verdana
+}
+skinparam ClassStereotype {
+  FontColor black
+  FontName Verdana
+}
+skinparam Footer {
+  FontColor black
+  FontName Verdana
+}
+skinparam Header {
+  FontColor black
+  FontName Verdana
+}
+skinparam Hyperlink {
+  Color blue
+}
+skinparam IconPackage {
+  Color black
+  BackgroundColor white
+}
+skinparam IconPrivate {
+  Color black
+  BackgroundColor white
+}
+skinparam IconProtected {
+  Color black
+  BackgroundColor white
+}
+skinparam IconPublic {
+  Color black
+  BackgroundColor white
+}
+skinparam Note {
+  FontColor black
+  FontName Verdana
+}
+skinparam Object {
+  BorderColor black
+}
+skinparam Package {
+  BorderColor black
+  FontColor black
+  FontName Verdana
+}
+skinparam State {
+  BackgroundColor white
+  BorderColor black
+}
+skinparam StereotypeA {
+  BackgroundColor white
+  BorderColor black
+}
+skinparam StereotypeC {
+  BackgroundColor white
+  BorderColor black
+}
+skinparam StereotypeE {
+  BackgroundColor white
+  BorderColor black
+}
+skinparam StereotypeI {
+  BackgroundColor white
+  BorderColor black
+}
+skinparam StereotypeN {
+  BackgroundColor white
+  BorderColor black
+}
+skinparam UseCaseStereoType {
+  FontColor black
+  FontName Verdana
+}
+
+participant "User" as User
+participant "Prompt Fix Agent" as PFA
+participant "Large Language Model (LLM)" as LLM
+participant "Answer Check Agent" as ACA
+
+User -> PFA : sends (User Prompt, Expected LLM Answer)
+PFA -> PFA : processes and modifies prompt
+PFA -> LLM : sends (Modified Prompt)
+LLM -> PFA : returns (Actual LLM Answer)
+PFA -> ACA : sends (Actual LLM Answer, Expected LLM Answer)
+ACA -> ACA : calculates similarity score
+ACA -> User : returns (Score)
+
+alt if score < threshold
+  User -> PFA : repeat with (Modified Prompt, Expected LLM Answer)
+else
+  User -> User : process ends
+end
+
+@enduml
+
+PlantUML version 1.2022.7(Tue Aug 23 02:01:30 JST 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: GB
+--></g></svg>
